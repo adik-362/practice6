@@ -1,0 +1,6 @@
+nums1 = input().split()
+nums2 = input().split()
+a,b = int(nums1[0]),int(nums1[1])
+c,d = int(nums2[0]),int(nums2[1])
+print()
+print("0","0")
